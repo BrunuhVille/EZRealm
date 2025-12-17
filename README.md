@@ -9,12 +9,12 @@ Realm一键转发脚本
 
 ---
 
-国外服务器：
+国外 服务器：
 
     wget -N https://raw.githubusercontent.com/BrunuhVille/EZRealm/main/realm.sh && chmod +x realm.sh && ./realm.sh
 
 
-国内服务器：
+国内 服务器：
 
     wget -N https://ghfast.top/https://raw.githubusercontent.com/BrunuhVille/EZRealm/main/CN/realm.sh && chmod +x realm.sh && ./realm.sh
 
